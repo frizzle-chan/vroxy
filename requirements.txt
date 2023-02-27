@@ -14,7 +14,7 @@ attrs==22.1.0
     # via aiohttp
 brotli==1.0.9
     # via yt-dlp
-certifi==2022.6.15
+certifi==2022.12.7
     # via
     #   requests
     #   yt-dlp
